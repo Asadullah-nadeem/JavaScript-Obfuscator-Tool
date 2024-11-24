@@ -23,7 +23,6 @@ A simple and effective tool to obfuscate your JavaScript code and protect it fro
    ```bash
    git clone https://github.com/Asadullah-nadeem/JavaScript-Obfuscator-Tool.git
 
-
 ## Usage
 
 1. **Enter your JavaScript code**: Paste the code you want to obfuscate into the text area.
