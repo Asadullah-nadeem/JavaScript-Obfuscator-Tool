@@ -29,15 +29,7 @@ A simple and effective tool to obfuscate your JavaScript code and protect it fro
 1. **Enter your JavaScript code**: Paste the code you want to obfuscate into the text area.
 2. **Select obfuscation method**: Choose between ASCII Characters or Base64 encoding.
 3. **Click the "Obfuscate Code" button**: Your obfuscated code will appear in the output section.
-4. **Copy the obfuscated code**: Click the "Copy Code Without `<script>` Tags" button to copy the obfuscated code to your clipboard.
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, feel free to submit a pull request or open an issue for suggestions and improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
