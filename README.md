@@ -14,9 +14,6 @@ A simple and effective tool to obfuscate your JavaScript code and protect it fro
 - **Instant Results**:
   - Generate obfuscated code instantly.
 
-- **Copy Functionality**:
-  - Copy obfuscated code without `<script>` tags for direct use.
-
 ## Getting Started
 
 1. Clone this repository to your local machine:
